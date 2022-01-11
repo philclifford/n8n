@@ -1,4 +1,4 @@
-FROM node:16.8
+FROM node:16.13.1-bullseye-slim
 
 ARG N8N_VERSION
 
